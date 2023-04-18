@@ -1,1 +1,1 @@
-# NotificacaoDesktopPy
+# Notificações de Desktop em Python
